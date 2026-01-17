@@ -1,0 +1,20 @@
+{
+  "despesas": [
+    {
+      "tipo": "Alimentação",
+      "elemento": "Material de Consumo",
+      "especie": "Ordinária",
+      "favorecido": {
+        "nome": "Mercado Central",
+        "documento": "12345678900"
+      },
+      "ano": 2025,
+      "mes": "Janeiro",
+      "data": "2025-01-10",
+      "valor": 250.5,
+      "unidade": "Unidade A",
+      "pagamento": 250.5,
+      "subtitulo": "Compra mensal"
+    }
+  ]
+}
