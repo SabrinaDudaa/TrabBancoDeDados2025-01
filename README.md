@@ -1,2 +1,2 @@
-# TrabBancoDeDados2025-01
-# TrabBancoDeDados2025-01
+Academic work for generating scripts to input and retrieve information from a database.
+
